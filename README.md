@@ -9,7 +9,7 @@ Beepus converts files into sound beeps for audio-based data transfer. Currently,
 Clone the repository and build the project:
 
 ```bash
-git clone https://github.com/username/beepus.git
+git clone https://github.com/ElonMax404/beepus.git
 cd beepus
 cargo build --release
 ```
